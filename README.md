@@ -16,42 +16,22 @@
 
 ## 목차
 
-* ### Section 04. State
-
-* ### Section 05. Event Handling
-
-* ### Section 08. Refs
-
-* ### Section 10. Context
-
-* ### Section 11. Effects
-
-* ### Section 13. Memo
-
-* ### Section 15. HTTP Request
-
-* ### Section 16. Hooks
-
-* ### Section 17. Form
-
-* ### Section 19. Redux
-
-* ### Section 20. Redux-2
-
-* ### Section 21. Router
-
-* ### Section 22. Auth
-
-* ### Section 23. Lazy Loading
-
-* ### Section 24. React-Query
-
-* ### Section 26. Framer-motion
-
-* ### Section 27. React Pattern
-
-* ### Section 28. Replace-redux
-
-* ### Section 29. Testing
-
-* ### Section 30. TypeScript
+* #### Section 04. State
+* #### Section 05. Event Handling
+* #### Section 08. Refs
+* #### Section 10. Context
+* #### Section 11. Effects
+* #### Section 13. Memo
+* #### Section 15. HTTP Request
+* #### Section 16. Hooks
+* #### Section 19. Redux
+* #### Section 20. Redux-2
+* #### Section 21. Router
+* #### Section 22. Auth
+* #### Section 23. Lazy Loading
+* #### Section 24. React-Query
+* #### Section 26. Framer-motion
+* #### Section 27. React Pattern
+* #### Section 28. Replace-redux
+* #### Section 29. Testing
+* #### Section 30. TypeScript
