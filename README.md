@@ -8,6 +8,10 @@
 
 * ### [React 완벽 가이드 with Redux, Next.js, TypeScript](https://www.udemy.com/course/best-react)
 
+## 참고 자료
+
+* ### [React Query API Deprecated](https://tkdodo.eu/blog/breaking-react-querys-api-on-purpose)
+
 ## Stack
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/> 
